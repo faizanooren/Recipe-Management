@@ -2,7 +2,7 @@
 
 A recipe management web app built with plain PHP and MySQL. Users can browse, upload, rate and bookmark recipes, search by name, ingredient or category, and keep a shopping list.
 
-![All recipes](screenshots/recipes.png)
+
 
 ## Features
 
